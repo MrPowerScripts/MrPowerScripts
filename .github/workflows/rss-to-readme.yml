@@ -1,0 +1,16 @@
+name: Update Recent Blog Posts
+
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron:  30 * * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://mrpowerscripts.com/feed.xml
+          readme-section: feed
