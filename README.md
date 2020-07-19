@@ -5,9 +5,9 @@ Hi! I'm MrPowerScripts. I started creating [educational content on youtube](http
 Go with the flow, and Learn, Code, Grow!
 
 <!--START_SECTION:feed-->
+* [My code is in the GitHub Arctic Code Vault](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;github-arctic-code-vault&#x2F;)
 * [Automated Reality Channel Ep2 Planning](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;arc-episode-two&#x2F;)
 * [MrPowerScripts.com is a Progressive Web App (PWA)](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;my-pwa-website&#x2F;)
 * [Simple tips for great tutorial videos](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;tutorial-video-tips&#x2F;)
 * [Feng Shui Bracelet - The greatest youtube commercial ever](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;feng-shui-bracelet&#x2F;)
-* [Oh My Gosh turn your PWA into an Android app in the Google play store](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;pwa-to-apk-with-twa&#x2F;)
 <!--END_SECTION:feed-->
