@@ -5,9 +5,9 @@ Hi! I'm MrPowerScripts. I started creating [educational content on youtube](http
 Go with the flow, and Learn, Code, Grow!
 
 <!--START_SECTION:feed-->
+* [NFTs are dumb, and they’re going to change the world, and there’s nothing you can do about it](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;nfts-are-dumb&#x2F;)
 * [MrPowerScripts 2020 Review](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;mrpowerscripts-2020-review&#x2F;)
 * [JSON command line tools](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;json-shell-tools&#x2F;)
 * [Damn it, he was right about 3d printing cars](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;3d-printed-cars&#x2F;)
 * [Shout out to the community](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;shout-out-community&#x2F;)
-* [Inspiration, motivation, education](https:&#x2F;&#x2F;mrpowerscripts.com&#x2F;inspiration-motivation-education&#x2F;)
 <!--END_SECTION:feed-->
